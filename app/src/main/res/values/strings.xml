@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="et_hint">Enter username</string>
+    <string name="et_value">Enter the value:</string>
+    <string name="et_clear">C</string>
+    <string name="et_backspace">BACKSPACE</string>
+    <string name="et_divide">DIVIDE</string>
+    <string name="et_multiply">*</string>
+    <string name="et_add">+</string>
+    <string name="et_sub">-</string>
+    <string name="et_one">1</string>
+    <string name="et_two">2</string>
+    <string name="et_three">3</string>
+    <string name="et_four">4</string>
+    <string name="et_five">5</string>
+    <string name="et_six">6</string>
+    <string name="et_seven">7</string>
+    <string name="et_eight">8</string>
+    <string name="et_nine">9</string>
+    <string name="et_zero">0</string>
+    <string name="et_equal">=</string>
+    <string-array name="country">
+        <item>India</item>
+        <item>USA</item>
+        <item>Japan</item>
+        <item>China</item>
+    </string-array>
+</resources>

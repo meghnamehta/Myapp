@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Try_image_button_view">
+
+    <ImageButton
+        android:id="@+id/imageButton_star"
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        app:srcCompat="@android:drawable/btn_star_big_on" />
+
+    <ImageButton
+        android:id="@+id/imageButton_Mike"
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        app:srcCompat="@android:drawable/ic_btn_speak_now" />
+
+    <ImageButton
+        android:id="@+id/imageButton_Cross"
+        android:layout_width="match_parent"
+        android:layout_height="68dp"
+        app:srcCompat="@android:drawable/ic_delete" />
+
+    <ImageButton
+        android:id="@+id/imageButton_Alert"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        app:srcCompat="@android:drawable/ic_lock_lock" />
+</LinearLayout>

@@ -12,7 +12,9 @@
         <activity android:name=".MainActivity" />
         <activity android:name=".Main2Activity" />
         <activity android:name=".tw1_1act" />
-        <activity android:name=".Main3Activity" />
+        <activity android:name=".Main3Activity">
+
+        </activity>
         <activity android:name=".TRY_mode" />
         <activity android:name=".Display_Employee" />
         <activity android:name=".Trying_list_image" />
@@ -20,11 +22,13 @@
         <activity android:name=".Display_Image" />
         <activity android:name=".Try_autocompleteview" />
         <activity android:name=".try_multiautocompleteview" />
-        <activity android:name=".try_simple_menu"></activity>
-        <activity android:name=".try_context_menu">
-
-        </activity>
-        <activity android:name=".Try_date_time">
+        <activity android:name=".try_simple_menu" />
+        <activity android:name=".try_context_menu" />
+        <activity android:name=".Try_date_time" />
+        <activity android:name=".try_fragement"></activity>
+        <activity android:name=".try_activity_dialog_box" />
+        <activity android:name=".Try_recycler_view"></activity>
+        <activity android:name=".chronometer_timer">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
